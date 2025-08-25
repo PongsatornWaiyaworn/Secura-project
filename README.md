@@ -1,7 +1,5 @@
 # Secura Web App
 
-[เข้าชมโปรเจกต์จริง](https://secura-web-app-psi.vercel.app/?fbclid=PAQ0xDSwMZlnBleHRuA2FlbQIxMAABp_Nx4Anryu_Ff0yXSJY2AebCQHXtmBlxrt_4keFSN_3R48T6BfoG8aPyR7M9_aem__82mia0sAjJtOZXUvXymfA)
-
 ---
 
 ## เกี่ยวกับแพลตฟอร์ม
