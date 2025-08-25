@@ -54,25 +54,25 @@
 ## Screenshots / ตัวอย่างการใช้งาน
 
 ### หน้า Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" width="600" />
 
 ### หน้า Alert Center
-![Alert Center](screenshots/alert-center.png)
+<img src="screenshots/alert-center.png" width="600" />
 
 ### หน้า Alert Details
-![Alert Details](screenshots/alert-details.png)
+<img src="screenshots/alert-details.png" width="600" />
 
 ### การตั้งค่าของ Alerts
-![Alert Settings](screenshots/alert-settings.png)
+<img src="screenshots/alert-settings.png" width="600" />
 
 ### หน้า Cameras
-![Cameras](screenshots/cameras.png)
+<img src="screenshots/cameras.png" width="600" />
 
 ### การแจ้งเตือนผ่าน Email
-![Email Alert](screenshots/email-alert.png)
+<img src="screenshots/email-alert.png" width="600" />
 
 ### การแจ้งเตือนผ่าน Discord
-![Discord Alert](screenshots/discord-alert.png)
+<img src="screenshots/discord-alert.png" width="600" />
 
 ---
 
